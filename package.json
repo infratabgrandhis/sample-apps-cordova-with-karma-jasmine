@@ -19,6 +19,7 @@
     "axios": "^0.18.1",
     "canvg": "1.5",
     "color": "^3.1.2",
+    "compare-func": "^2.0.0",
     "cordova-common": "^4.0.1",
     "d3": "^5.7.0",
     "fastclick": "^1.0.6",
