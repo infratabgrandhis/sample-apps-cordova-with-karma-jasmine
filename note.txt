@@ -1,0 +1,8 @@
+"compare-func": "^2.0.0",
+"cordova-common": "^4.0.1",
+"properties-parser": "^0.3.1",
+"unorm": "^1.6.0",
+"xcode": "^3.0.1"
+
+
+webhook URL: https://postb.in/b/1590073646530-7876503760926
