@@ -37,7 +37,6 @@
     <plugin name="cordova.plugins.diagnostic" src="https://github.com/ApplaudSolutions/cordova-diagnostic-plugin.git" />
     <plugin name="cordova-plugin-apprate" spec="1.4.0" />
     <plugin name="phonegap-plugin-media-stream" spec="~1.2.1" />
-    <plugin name="cordova-plugin-tts" spec="~0.2.3" />
     <preference name="cordova.plugins.diagnostic.modules" value="LOCATION" />
 
     <preference name="phonegap-version" value="cli-8.1.1"/>
