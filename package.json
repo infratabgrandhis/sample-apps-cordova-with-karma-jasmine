@@ -43,6 +43,7 @@
     "tree-helper": "^1.0.5",
     "tributejs": "^4.0.0",
     "ua-device-detector": "^1.1.4",
+    "unorm": "^1.6.0",
     "values.js": "^1.0.3",
     "vue": "^2.6.7",
     "vue-analytics": "^5.16.0",
